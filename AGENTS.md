@@ -7,3 +7,4 @@
 - Verify that async/await is used correctly.
 - Look for code smells and maintainability issues.
 - Ensure API endpoints follow RESTful best practices.
+- Treat all issues as at least P1, including code smells, naming conventions, readability concerns, and minor improvements.
